@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2021h-ch2-exercices-gulux99/.idea/2021h-ch2-exercices-gulux99.iml" filepath="$PROJECT_DIR$/../2021h-ch2-exercices-gulux99/.idea/2021h-ch2-exercices-gulux99.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2021h-projet1-gulux99/.idea/2021h-projet1-gulux99.iml" filepath="$PROJECT_DIR$/../2021h-projet1-gulux99/.idea/2021h-projet1-gulux99.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/C04_ch3_exercices.iml" filepath="$PROJECT_DIR$/.idea/C04_ch3_exercices.iml" />
     </modules>
   </component>
